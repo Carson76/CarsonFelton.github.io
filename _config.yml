@@ -11,10 +11,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Catherine Knox"
+title                    : "Carson Felton"
 title_separator          : "-"
 subtitle                 : "Engineering Portfolio"
-name                     : &name "Catherine Knox" # &name is a YAML anchor which can be *referenced later
+name                     : &name "Carson Felton" # &name is a YAML anchor which can be *referenced later
 description              : &description "Engineering Portfolio"
 url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
